@@ -1,4 +1,4 @@
-AWS Glue ETL Pipeline for CloudWatch Logs Processing & Athena Querying
+### AWS Glue ETL Pipeline for CloudWatch Logs Processing & Athena Querying
 ## 📌 Project Overview
 
 This project demonstrates how to build a serverless log processing pipeline using AWS services. The pipeline retrieves logs from Amazon CloudWatch Logs, processes them using an AWS Glue ETL job, stores structured output in Amazon S3, and enables querying through Amazon Athena for analytical insights.
